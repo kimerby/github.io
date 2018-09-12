@@ -9,6 +9,8 @@ public  : true
 comment : false
 ---
 
+[[위키테스트]]
+
 * [[Gradle]]
 * [[tools]]
     * [[useful-site]]
