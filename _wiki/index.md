@@ -2,16 +2,16 @@
 layout  : wikiindex
 title   : wiki
 date    : 2017-11-26 21:38:36 +0900
-updated : 2018-03-05 22:57:44 +0900
+updated : 2018-09-18 17:27:27 +0900
 tags    : index
 toc     : true
 public  : true
 comment : false
 ---
 
-* [[Gradle]]
-* [[20180918_test]]
 * [[tools]]
+* [[20180918test]]
+* [[20180918_기존꺼copy해서테스트]]
     * [[useful-site]]
         * [[google-search-console-remove-outdated-content]]{구글 웹 도구 - 오래된 콘텐츠 삭제}
 * [[programming-language]]{프로그래밍 언어}
