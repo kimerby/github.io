@@ -1,21 +1,23 @@
 ---
-layout  : wikiindex
-title   : wiki
-date    : 2017-11-26 21:38:36 +0900
-updated : 2018-09-19 18:31:47 +0900
-tags    : index
+layout  : wiki
+title   : 
+summary : 
+date    : 2018-09-20 08:33:39 +0900
+updated : 2018-09-20 08:41:25 +0900
+tags    : 
 toc     : true
 public  : true
-comment : false
+parent  : 
+latex   : false
 ---
+* TOC
+{:toc}
 
-* [[tools]]
-* [[20180918test_copy]]
-* [[20180919_1]]
-* [[20180919_2]]
-* [[20180919_3]]
-* [[20180919_4]]
-* [[20180919_vimrc]]
+* [[home_1]]
+* [[home_2]]
+* [[home_9]]
+* [[home_10]]
+* [[20180920_vimrc]]
     * [[useful-site]]
         * [[google-search-console-remove-outdated-content]]{구글 웹 도구 - 오래된 콘텐츠 삭제}
 * [[programming-language]]{프로그래밍 언어}
