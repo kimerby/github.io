@@ -3,7 +3,7 @@ layout  : wiki
 title   : 
 summary : 
 date    : 2018-09-20 08:33:39 +0900
-updated : 2018-09-20 08:41:25 +0900
+updated : 2018-09-20 08:53:00 +0900
 tags    : 
 toc     : true
 public  : true
@@ -13,11 +13,11 @@ latex   : false
 * TOC
 {:toc}
 
-* [[home_1]]
-* [[home_2]]
-* [[home_9]]
-* [[home_10]]
-* [[20180920_vimrc]]
+* [[Gradle]]
+* [[20180920_home1]]
+* [[20180920_home2]]
+* [[20180920_home3]]
+* [[20810920_vimrc]]
     * [[useful-site]]
         * [[google-search-console-remove-outdated-content]]{구글 웹 도구 - 오래된 콘텐츠 삭제}
 * [[programming-language]]{프로그래밍 언어}
