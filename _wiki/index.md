@@ -10,8 +10,11 @@ comment : false
 ---
 
 * [[tools]]
-* [[20180918test]]
 * [[20180918test_copy]]
+* [[20180919_1]]
+* [[20180919_2]]
+* [[20180919_3]]
+* [[20180919_4]]
     * [[useful-site]]
         * [[google-search-console-remove-outdated-content]]{구글 웹 도구 - 오래된 콘텐츠 삭제}
 * [[programming-language]]{프로그래밍 언어}
