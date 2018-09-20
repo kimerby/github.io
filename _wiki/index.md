@@ -3,8 +3,7 @@ layout  : wikiindex
 title   : wiki
 summary : 
 date    : 2018-09-20 08:33:39 +0900
-updated : 2018-09-20 12:43:24 +0900
-tags    : 
+updated : 2018-09-20 12:46:14 +0900
 tags    : index
 toc     : true
 public  : true
