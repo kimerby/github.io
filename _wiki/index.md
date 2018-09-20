@@ -3,15 +3,14 @@ layout  : wikiindex
 title   : wiki
 summary : 
 date    : 2018-09-20 08:33:39 +0900
-updated : 2018-09-20 12:38:51 +0900
+updated : 2018-09-20 12:43:24 +0900
 tags    : 
+tags    : index
 toc     : true
 public  : true
 parent  : 
 latex   : false
 ---
-* TOC
-{:toc}
 
 * [[tools]]
 * [[Gradle]]
