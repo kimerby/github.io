@@ -2,7 +2,7 @@
 layout  : wikiindex
 title   : wiki
 date    : 2017-11-26 21:38:36 +0900
-updated : 2018-09-19 18:31:47 +0900
+updated : 2018-09-20 10:37:25 +0900
 tags    : index
 toc     : true
 public  : true
@@ -10,12 +10,10 @@ comment : false
 ---
 
 * [[tools]]
-* [[20180918test_copy]]
-* [[20180919_1]]
-* [[20180919_2]]
-* [[20180919_3]]
-* [[20180919_4]]
-* [[20180919_vimrc]]
+* [[Gradle]]
+* [[20180920_com1]]
+* [[20180920_com2]]
+* [[20180920_com3]]
     * [[useful-site]]
         * [[google-search-console-remove-outdated-content]]{구글 웹 도구 - 오래된 콘텐츠 삭제}
 * [[programming-language]]{프로그래밍 언어}
