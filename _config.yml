@@ -7,7 +7,7 @@ description: >
 
 # My information
 email: kimerby@gmail.com
-author: Kimerby
+author: kimerby
 profile: 김어비
 twitter_username: kimerby
 github_username: kimerby
@@ -42,10 +42,10 @@ disqus:
   shortname: kimerby
 
 google_analytics:
-  ua: UA-110224147-1
+  ua: UA-127074744-1
 
 google_adsense:
-  client: ca-pub-3675948545737694
+  client: 
 
 blame: "https://github.com/kimerby/kimerby.github.io/blame/master/_wiki"
 edit: "https://github.com/kimerby/kimerby.github.io/edit/master/_wiki"
