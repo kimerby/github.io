@@ -183,4 +183,3 @@ function getFiles(path, type, array){
         }
     });
 }
-
