@@ -12,9 +12,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kimerby/kimerby.github.io.git"
+    "url": "https://github.com/kimerby/kimerby.github.io.git"
   },
-  "author": "John Grib",
+  "author": "kimerby",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kimerby/kimerby.github.io/issues"
