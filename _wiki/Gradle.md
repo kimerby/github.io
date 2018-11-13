@@ -3,11 +3,11 @@ layout  : wiki
 title   : Gradle
 summary : Gradle Build Tool
 date    : 2017-12-03 10:40:55 +0900
-updated : 2018-09-20 15:49:30 +0900
+updated : 2018-10-08 22:21:21 +0900
 tags    : gradle tool
 toc     : true
 public  : true
-parent  : index
+parent  : tools
 latex   : false
 ---
 * TOC
@@ -15,7 +15,7 @@ latex   : false
 
 ## 개요
 
-* 개발자: [Hans Dockter](https://github.com/hansd), Adam Murdoch, Szczepan Faber, Peter Niederwieser, Luke Daley, Rene Groschke, Daz DeBoer, Steve Appling
+* 개발자: [Hans Dockter](https://github.com/hansd), Adam Murdoch, Szczepan Faber, Peter Niederwieser, Luke Daley, Rene Gröschke, Daz DeBoer, Steve Appling
 * 라이선스: Apache License 2.0
 * 개발 언어: Java, Groovy 등[^1]
 
@@ -48,7 +48,7 @@ Hello, World!
 
 BUILD SUCCESSFUL
 
-otal time: 0.979 secs
+Total time: 0.979 secs
 ```
 
 ### JVM heap 사이즈 설정
@@ -56,6 +56,12 @@ otal time: 0.979 secs
 ```bash
 # Gradle 실행시 JVM 최대 힙 사이즈를 1GB로 설정한다.
 export GRADLE_OPTS=-Xmx1024m
+```
+
+### 테스트 하나만 구동하기
+
+```sh
+gradle clean test --tests "package.class.method"
 ```
 
 ## Links
