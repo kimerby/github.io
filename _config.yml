@@ -50,3 +50,5 @@ google_adsense:
 blame: "https://github.com/kimerby/kimerby.github.io/blame/master/_wiki"
 edit: "https://github.com/kimerby/kimerby.github.io/edit/master/_wiki"
 issue: "https://github.com/kimerby/kimerby.github.io/issues/new"
+
+timezone: "Asia/Seoul"
