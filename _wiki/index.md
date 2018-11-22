@@ -2,7 +2,7 @@
 layout  : wikiindex
 title   : wiki
 date    : 2017-11-26 21:38:36 +0900
-updated : 2018-11-21 10:09:32 +0900
+updated : 2018-11-22 17:37:12 +0900
 tags    : index
 toc     : true
 public  : true
@@ -11,11 +11,14 @@ comment : false
 
 * [[백서]]
 	* [[개발용_제품특송물류_과제수행]]
+	* [[발주변경프로세스_과제수행]]
+	* [[성능개선_과제수행]]
 
 * [[algorithm]]
     * [[big-O-notation]]
     * [[regex-prime]]
     * [[von-neumann-extractor]]
+ 
 * [[clipping]]{글 모음 및 요약}
     * [[legend]]
         * [[Bill-Atkinson-productivity]]
@@ -40,51 +43,6 @@ comment : false
     * [[gcd]]
     * [[rule-of-succession]]
     * [[secretary-problem]]
-* [[media]]
-    * [[book]]{도서}
-        * [[17-EQUATIONS-THAT-CHANGED-THE-WORLD]]
-        * [[Algorithms-to-Live-By]]
-        * [[Clean-Code]]
-        * [[Code-Complete-2]]
-        * [[Computer-Science-Distilled]]
-        * [[CONCRETE-MATH]]
-        * [[Designing-Data-Intensive-Applications]]
-        * [[DevOps-Troubleshooting]]
-        * [[DOM-Enlightenment-by-Cody-Lindley]]{DOM을 깨우치다}
-        * [[Effective-Java]]
-        * [[Geek-Atlas]]
-        * [[GoF-Design-Pattern]]
-        * [[GRAVITY-EXPRESS]]
-        * [[HELL-BOY]]
-        * [[HTTP-no-Kyokasho]]
-        * [[HTTP-THE-DEFINITIVE-GUIDE]]{HTTP 완벽 가이드}
-        * [[Mythical-Man-Month]]
-        * [[PATTERN-ON-THE-STONE]]
-        * [[PROFESSIONAL-SOFTWARE-DEVELOPMENT]]
-        * [[SCIENTIFIC-AMERICAN-The-Secrets-Of-Consciousness]]
-        * [[secret-of-consulting]]
-        * [[Shunsho-juwa]]{수학자의 공부}
-        * [[Software-Craftsman]]{소프트웨어 장인}
-        * [[Take-the-Bully-by-the-Horns]]{함부로 말하는 사람과 대화하는 법}
-        * [[TETRIS-EFFECT]]
-        * [[TEXT-BOOK-OF-THE-WEB-ENGINEER]]{웹 엔지니어의 교과서}
-        * [[The-Jargon-File]]
-        * [[Think-Bayes]]{파이썬을 활용한 베이지안 통계}
-        * [[toda-seiji-scientia]]
-        * [[그림으로-보는-서양검술-메모]]
-        * [[슈뢰딩거의-고양희]]
-        * [[전생검신]]
-        * [[토끼의-아리아]]
-        * [[한국과학문학상-수상작품집-제2회]]
-    * [[review]]
-        * [[review-2018]]
-        * [[review-2017]]
-    * [[movie]]
-        * [[ALPHAGO]]
-        * [[DIRK-GENTLY-S-HOLISTIC-DETECTIVE-AGENCY]]
-        * [[HOT-FUZZ]]{뜨거운 녀석들}
-        * [[Las-chicas-del-cable]]
-        * [[Walking-Dead]]
 * [[design-pattern]]
     * [[builder-pattern]]
     * [[static-factory-method-pattern]]
@@ -112,57 +70,6 @@ comment : false
         * [[python3-simple-file-sharing]]
     * [[TOML]]
     * [[YAML]]
-* [[proverb]]{속담, 법칙, 관용어 모음}
-    * [[airplain-rule]]
-    * [[Boy-Scout-Rule]]
-    * [[Brooks-s-law]]
-    * [[Conway-s-law]]
-    * [[Copernican-Principle]]
-    * [[Edsel-edict]]
-    * [[Kerckhoffs-s-principle]]
-    * [[Lubarsky-s-Law-of-Cybernetic-Entomology]]{루바르스키의 사이버네틱 곤충학 법칙}
-    * [[No-Silver-Bullet]]
-    * [[orange-juice-test]]
-    * [[Postel-s-law]]
-    * [[Zipf-s-law]]
-* [[study]]
-    * [[study-concrete-math]]
-        * [[c-m-01-Recurrent-Problems-01]]
-        * [[c-m-01-Recurrent-Problems-02]]
-        * [[c-m-01-Recurrent-Problems-03]]
-        * [[c-m-01-Recurrent-Problems-Exercises]]
-        * [[c-m-02-Sums-01]]
-        * [[c-m-02-Sums-02]]
-        * [[c-m-02-Sums-03]]
-        * [[c-m-02-Sums-04]]
-        * [[c-m-02-Sums-05]]
-        * [[c-m-02-Sums-06]]
-        * [[c-m-02-Sums-07]]
-        * [[c-m-02-Sums-Exercises]]
-        * [[c-m-03-Integer-Functions-01]]
-        * [[c-m-03-Integer-Functions-02]]
-        * [[c-m-05-Binomial-Coefficients-04]]
-    * [[study-data-intensive-application]]
-        * [[d-i-a-01-reliable-scalable-maintainable]]
-        * [[d-i-a-02-data-models-and-query-languages]]
-        * [[d-i-a-03-storage-and-retrieval]]
-        * [[d-i-a-04-encoding-and-evolution]]
-        * [[d-i-a-05-replication]]
-    * [[study-formal-languages-and-automata]]
-        * [[f-l-a-00-preface]]
-        * [[f-l-a-01-00]]
-        * [[f-l-a-01-01]]
-        * [[f-l-a-01-02]]
-    * [[study-kocw-automata-theory-of-computation]]
-        * [[a-t-o-c-01-mathematical]]
-    * [[study-think-bayes]]
-        * [[cookie-problem]]
-        * [[dice-problem]]
-        * [[euro-problem]]
-        * [[locomotive-problem]]
-        * [[MnM-problem]]
-        * [[Monty-Hall-problem]]
-        * [[Oliver-s-blood]]
 * [[tools]]
     * [[aws]]
         * [[Amazon-Route-53]]
