@@ -2,7 +2,7 @@
 layout  : wikiindex
 title   : wiki
 date    : 2017-11-26 21:38:36 +0900
-updated : 2018-11-26 09:53:57 +0900
+updated : 2018-11-26 10:01:59 +0900
 tags    : index
 toc     : true
 public  : true
