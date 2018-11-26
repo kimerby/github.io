@@ -2,7 +2,7 @@
 layout  : wikiindex
 title   : wiki
 date    : 2017-11-26 21:38:36 +0900
-updated : 2018-11-26 10:01:59 +0900
+updated : 2018-11-26 10:14:00 +0900
 tags    : index
 toc     : true
 public  : true
@@ -13,7 +13,6 @@ comment : false
 	* [[개발용_제품특송물류_과제수행]]
 	* [[발주변경프로세스_과제수행]]
 	* [[성능개선_백서]]
-	* [[markdown_사용백서]]
 	 
 * [[algorithm]]
     * [[big-O-notation]]
