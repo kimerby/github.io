@@ -1,9 +1,9 @@
 ---
 layout  : wiki
-title   : markdown_사용백서
+title   : markdown_사용백서 
 summary : markdown_요약
-date    : 2018-11-26 09:10:04 +0900
-updated : 2018-11-26 09:35:42 +0900
+date    : 2018-11-26 09:41:59 +0900
+updated : 2018-11-26 09:43:12 +0900
 tags    : markdown
 toc     : true
 public  : true
@@ -13,13 +13,13 @@ latex   : false
 * TOC
 {:toc}
 
-#1. markdown 언어에 대해
+# 1.1 markdown 언어에 대해 (대제목)
 
-##1.1 markdown 배경
+## 1.1 markdown 언어의 배경 (중제목)
 
-#2. markdown 문법
+# 2.1 문법
 
-#2.1 markdown 예시
+## 2.2 예시
 
 > 인용문
 
@@ -42,9 +42,3 @@ Header 1 | Header 2
 --------- | ---------
 Content 1 | Content 3
 Content 2 | Content 4
-
-
-
-
-
-

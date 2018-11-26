@@ -2,7 +2,7 @@
 layout  : wikiindex
 title   : wiki
 date    : 2017-11-26 21:38:36 +0900
-updated : 2018-11-26 09:34:41 +0900
+updated : 2018-11-26 09:41:59 +0900
 tags    : index
 toc     : true
 public  : true
@@ -15,8 +15,6 @@ comment : false
 	* [[성능개선_백서]]
 	* [[markdown_사용백서]]
 	 
-
-
 * [[algorithm]]
     * [[big-O-notation]]
     * [[regex-prime]]
